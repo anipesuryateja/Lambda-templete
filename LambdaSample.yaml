@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: "2010-09-09"
 
-Description: Template for Lambda Sample.
+Description: Template for Lambda Sample
 
 Parameters:
   EnvName:
